@@ -1,1 +1,0 @@
-SONAR_TOKEN="12812fd7ba82f9b16734731f1a732b3f4e505561" mvn verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
